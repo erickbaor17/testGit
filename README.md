@@ -18,3 +18,5 @@ The topics seen in this tutorial based on [Git Docs](https://git-scm.com/docs) a
   + **remote**
 + Inspection and Comparison
   + **log**
+
+Template de la demo: [Click here!](https://co.pinterest.com/pin/277604764517904625/)
