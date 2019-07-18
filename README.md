@@ -2,7 +2,7 @@
 
 This project is for testing my ability using Git and GitHub.
 
-The topics seen in this tutorial are:
+The topics seen in this tutorial based on [Git Docs](https://git-scm.com/docs) are:
 + Setup and Config
   + **git**
   + **config**
